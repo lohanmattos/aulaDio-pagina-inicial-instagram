@@ -1,4 +1,4 @@
-#Recriando a página indicial do Instagram
+# Recriando a página indicial do Instagram
 
 ### Conteúdos abordados no projeto:
 
